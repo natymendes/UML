@@ -1,17 +1,20 @@
 # O que é UML?
 
-UML (Unified Modeling Language) é uma linguagem padrão para visualização, especificação, construção e documentação de sistemas complexos. Ela foi desenvolvida por Grady Booch, James Rumbaugh e Ivar Jacobson na década de 1990, com o objetivo de unificar as diversas técnicas de modelagem usadas até então.
 
-A UML é amplamente utilizada na Engenharia de Software, pois proporciona uma maneira visual de representar os diferentes aspectos de um sistema, facilitando a comunicação entre desenvolvedores, analistas e stakeholders. Além disso, ela é independente de linguagem de programação ou plataforma, tornando-se uma ferramenta versátil para qualquer tipo de projeto.
+# UML (Unified Modeling Language) é uma linguagem padrão para visualização, especificação, construção e documentação de sistemas complexos. Ela foi desenvolvida por Grady Booch, James Rumbaugh e Ivar Jacobson na década de 1990, com o objetivo de unificar as diversas técnicas de modelagem usadas até então.
 
-Benefícios da UML
+# A UML é amplamente utilizada na Engenharia de Software, pois proporciona uma maneira visual de representar os diferentes aspectos de um sistema, facilitando a comunicação entre desenvolvedores, analistas e stakeholders. Além disso, ela é independente de linguagem de programação ou plataforma, tornando-se uma ferramenta versátil para qualquer tipo de projeto.
+
+# Benefícios da UML:
+
 Facilidade de comunicação: Diagramas são mais intuitivos do que documentação textual.
 Padronização: Segue normas amplamente aceitas, tornando os modelos compreensíveis globalmente.
 Facilitação da manutenção: Modelos visuais ajudam a compreender sistemas complexos rapidamente.
 Apoio ao desenvolvimento ágil: Diagramas simples podem complementar a documentação mínima requerida por metodologias ágeis.
 
 
-Tipos de Diagramas em UML
+# Tipos de Diagramas em UML
+
 A UML é composta por 14 tipos de diagramas organizados em duas grandes categorias: estruturais e comportamentais. Cada diagrama tem um propósito específico para modelar diferentes aspectos de um sistema.
 
 1. Diagramas Estruturais
@@ -54,7 +57,7 @@ Exemplo: Comunicação entre um Usuario, o Sistema e o Banco de Dados para efetu
 
 Diagrama de Interação Geral: Um diagrama que fornece uma visão de alto nível da interação entre elementos.
 
-Como Utilizar os Diagramas
+# Como Utilizar os Diagramas
 Planejamento Inicial: Use diagramas de casos de uso para identificar os requisitos e entender os usuários do sistema.
 Design do Sistema: Crie diagramas de classes para projetar a estrutura estática.
 Detalhamento de Processos: Use diagramas de sequência e atividades para mapear a lógica do sistema.
