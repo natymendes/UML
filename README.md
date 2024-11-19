@@ -6,10 +6,10 @@ Este repositório apresenta conceitos, exemplos e diagramas prontos utilizando u
 ## Conteúdo
 - [O que é UML?](https://github.com/natymendes/UML/blob/main/uml-o-que-e.md)
 - Exemplos:
-  - [Modelo Conceitual](exemplo-base/modelo-conceitual.png)
-  - [Diagrama de Casos de Uso](exemplo-base/diagrama-casos-de-uso.png)
-  - [Diagrama de Classes](exemplo-base/diagrama-de-classes.png)
-  - [Diagrama de Sequência](exemplo-base/diagrama-de-sequencia.png)
-  - [Diagrama de Atividade](exemplo-base/diagrama-de-atividade.png)
+  - [Modelo Conceitual](exemplo-base/modelo-conceitual.jpg)
+  - [Diagrama de Casos de Uso](diagrama_de_casos_de_uso.jpg)
+  - [Diagrama de Classes](diagrama_de_classe.jpg)
+  - [Diagrama de Sequência](diagrama_de_sequencia.jpg)
+  - [Diagrama de Atividade](diagrama_de_atividades.jpg)
 
 Explore e contribua!
