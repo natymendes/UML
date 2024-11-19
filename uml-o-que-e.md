@@ -17,7 +17,7 @@ Apoio ao desenvolvimento ágil: Diagramas simples podem complementar a documenta
 
 A UML é composta por 14 tipos de diagramas organizados em duas grandes categorias: estruturais e comportamentais. Cada diagrama tem um propósito específico para modelar diferentes aspectos de um sistema.
 
-1. Diagramas Estruturais
+### 1. Diagramas Estruturais
 Focam na representação estática do sistema, mostrando como os elementos estão relacionados e organizados. Esses diagramas ajudam a definir a arquitetura do sistema e as relações entre componentes.
 
 Principais Diagramas Estruturais:
@@ -36,7 +36,7 @@ Exemplo: Um pacote para Controle de Usuários e outro para Gerenciamento de Livr
 Diagrama de Implantação (Deployment): Mostra a distribuição física do sistema, incluindo servidores, dispositivos e conexões.
 Exemplo: Servidores de produção, balanceadores de carga e dispositivos clientes.
 
-2. Diagramas Comportamentais
+### 2. Diagramas Comportamentais
 Focam nos aspectos dinâmicos do sistema, representando interações, processos e fluxos de trabalho. Eles ajudam a modelar como o sistema se comporta em diferentes cenários.
 
 Principais Diagramas Comportamentais:
@@ -63,4 +63,4 @@ Design do Sistema: Crie diagramas de classes para projetar a estrutura estática
 Detalhamento de Processos: Use diagramas de sequência e atividades para mapear a lógica do sistema.
 Documentação Final: Utilize diagramas de implantação para descrever como o sistema será distribuído fisicamente.
 
-Leia mais sobre [tipos de diagramas](tipos-de-diagramas.md).
+
