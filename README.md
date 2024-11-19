@@ -4,7 +4,7 @@ Repositório com explanações, exemplos e diagramas didáticos de UML
 Este repositório apresenta conceitos, exemplos e diagramas prontos utilizando um exemplo simples como base. Ideal para iniciantes em Engenharia de Software ou entusiastas de UML.
 
 ## Conteúdo
-- [O que é UML?](https://github.com/natymendes/UML/blob/main/uml-o-que-e.md)
+- [O que é UML?](uml-o-que-e.md)
 - Exemplos:
   - [Modelo Conceitual](exemplo-base/modelo-conceitual.jpg)
   - [Diagrama de Casos de Uso](diagrama_de_casos_de_uso.jpg)
