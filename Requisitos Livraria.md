@@ -24,16 +24,16 @@ O vendedor pode cadastrar novos clientes fornecendo informações básicas como 
 #### Cadastro de Pedidos
 O vendedor pode registrar pedidos associando-os a um cliente e incluindo os produtos selecionados.
 
- ####Gerenciamento de Perfil de Consumo
+ #### Gerenciamento de Perfil de Consumo
 O vendedor pode atualizar o perfil de consumo do cliente com base em compras anteriores.
 
 #### Realização de Vendas
 O vendedor pode concluir vendas baseando-se nos pedidos cadastrados.
 
-####Venda Agregada
+#### Venda Agregada
 O vendedor pode sugerir produtos adicionais durante a finalização de um pedido.
 
-####Interações do Cliente
+#### Interações do Cliente
 O cliente pode realizar um pedido diretamente.
 O cliente pode aprovar ou recusar um pedido.
 O cliente pode informar ou atualizar seus dados de cadastro.
@@ -61,7 +61,7 @@ Seleciona um cliente para associar o pedido.
 Adiciona os produtos ao pedido.
 Salva o pedido.
 
-###Fluxo de Aprovação de Pedido:
+### Fluxo de Aprovação de Pedido:
 Cliente acessa o sistema.
 Revisa o pedido registrado pelo vendedor.
 Aprova ou recusa o pedido.
