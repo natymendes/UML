@@ -1,9 +1,9 @@
 # O que é UML?
 
 
-# UML (Unified Modeling Language) é uma linguagem padrão para visualização, especificação, construção e documentação de sistemas complexos. Ela foi desenvolvida por Grady Booch, James Rumbaugh e Ivar Jacobson na década de 1990, com o objetivo de unificar as diversas técnicas de modelagem usadas até então.
+ UML (Unified Modeling Language) é uma linguagem padrão para visualização, especificação, construção e documentação de sistemas complexos. Ela foi desenvolvida por Grady Booch, James Rumbaugh e Ivar Jacobson na década de 1990, com o objetivo de unificar as diversas técnicas de modelagem usadas até então.
 
-# A UML é amplamente utilizada na Engenharia de Software, pois proporciona uma maneira visual de representar os diferentes aspectos de um sistema, facilitando a comunicação entre desenvolvedores, analistas e stakeholders. Além disso, ela é independente de linguagem de programação ou plataforma, tornando-se uma ferramenta versátil para qualquer tipo de projeto.
+ A UML é amplamente utilizada na Engenharia de Software, pois proporciona uma maneira visual de representar os diferentes aspectos de um sistema, facilitando a comunicação entre desenvolvedores, analistas e stakeholders. Além disso, ela é independente de linguagem de programação ou plataforma, tornando-se uma ferramenta versátil para qualquer tipo de projeto.
 
 # Benefícios da UML:
 
